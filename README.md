@@ -19,3 +19,23 @@ A simple tool to modify in-game values (XP, Cash, Gold) in CarX Streets, giving 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/CarXStreetsHelper.git
+2. Navigate to the project directory:
+    ```bash
+    cd CarXStreetsHelper
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+4. Run the script:
+    ```bash
+    python CarXHelper.py
+
+# Usage Instructions
+- XP Modification: To see XP updates in the game, perform a small drift or speed boost, and the XP will reflect your changes.
+- Cash & Gold Modification: Spend a small amount of the currency in the game for the value to update. If Cash or Gold shows as 0 or 1, restart the game to reflect the correct amount.
+
+# Notes
+Keep the tool running while using CarX Streets to ensure it can monitor and update values in real time while using.
+You can refresh the values in the tool at any time to retrieve accurate in-game data.
+
+## Disclaimer
+This tool is for educational purposes only. Use it at your own risk, as modifying game values may conflict with the game’s terms of service.
