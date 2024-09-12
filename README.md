@@ -53,11 +53,6 @@ A sleek and user-friendly tool to modify in-game values (XP, Cash, Gold) in CarX
 - **Cash & Gold Modification**: Spend a small amount of the currency in-game for the value to update. If Cash or Gold shows as 0 or 1, restart the game to reflect the correct amount.
 - Keep the tool running while playing CarX Streets for real-time monitoring and updates.
 
-## Customization
-To change the application icon:
-1. Replace the `icon.png` file in the project directory with your desired icon (maintain the same filename).
-2. Rebuild the executable using PyInstaller if you're distributing the tool.
-
 ## Disclaimer
 This tool is for educational purposes only. Use it at your own risk, as modifying game values may conflict with the game's terms of service.
 
