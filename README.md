@@ -1,5 +1,7 @@
 # CarX Streets Helper
 
+NO LONGER SUPPORTED, IM NOT UPDATING THIS FOR THE GAME, FEEL FREE TO USE AS A BASE FOR YOUR OWN CHEATS. EVERYTHING WAS FOUND WITH CHEAT ENGINE
+
 A sleek and user-friendly tool to modify in-game values (XP, Cash, Gold) in CarX Streets, giving you more control over your gaming experience.
 
 ## Features
